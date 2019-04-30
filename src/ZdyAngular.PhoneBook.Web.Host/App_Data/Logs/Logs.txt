@@ -1,0 +1,208 @@
+DEBUG 2019-04-30 15:38:55,073 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-04-30 15:38:55,220 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-04-30 15:38:55,239 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZdyAngular.PhoneBook.Web.Host.Startup.PhoneBookWebHostModule, ZdyAngular.PhoneBook.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:55,242 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZdyAngular.PhoneBook.PhoneBookWebCoreModule, ZdyAngular.PhoneBook.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:55,242 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZdyAngular.PhoneBook.PhoneBookApplicationModule, ZdyAngular.PhoneBook.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:55,243 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZdyAngular.PhoneBook.PhoneBookCoreModule, ZdyAngular.PhoneBook.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:55,243 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:55,243 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:55,243 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:55,244 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:55,244 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZdyAngular.PhoneBook.EntityFrameworkCore.PhoneBookEntityFrameworkModule, ZdyAngular.PhoneBook.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:55,244 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:55,244 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:55,245 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:55,245 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:55,245 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:55,245 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:55,249 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-04-30 15:38:55,367 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-04-30 15:38:55,367 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-04-30 15:38:55,367 [1    ] o.Configuration.LanguageManagementConfig - Converted PhoneBook (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-04-30 15:38:55,367 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-04-30 15:38:55,836 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: ZdyAngular.PhoneBook.EntityFrameworkCore.PhoneBookDbContext, ZdyAngular.PhoneBook.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 15:38:57,494 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-04-30 15:38:57,623 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-04-30 15:38:57,676 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-04-30 15:38:57,709 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: PhoneBook
+DEBUG 2019-04-30 15:38:57,739 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-04-30 15:38:57,883 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-04-30 15:38:57,938 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2019-04-30 15:38:57,938 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-04-30 15:38:57,945 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Users.Dto.CreateUserDto
+DEBUG 2019-04-30 15:38:57,946 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Users.Dto.UserDto
+DEBUG 2019-04-30 15:38:57,946 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-04-30 15:38:57,946 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-04-30 15:38:57,947 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Roles.Dto.CreateRoleDto
+DEBUG 2019-04-30 15:38:57,947 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Roles.Dto.PermissionDto
+DEBUG 2019-04-30 15:38:57,947 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Roles.Dto.RoleDto
+DEBUG 2019-04-30 15:38:57,947 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-04-30 15:38:57,947 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.MultiTenancy.Dto.TenantDto
+INFO  2019-04-30 15:39:05,400 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2019-04-30 15:39:05,400 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 DEBUG http://localhost:21021/  0
+INFO  2019-04-30 15:39:05,511 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 117.4689ms 200 
+INFO  2019-04-30 15:39:09,058 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action ZdyAngular.PhoneBook.Web.Host.Controllers.HomeController.Index (ZdyAngular.PhoneBook.Web.Host)
+INFO  2019-04-30 15:39:10,104 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method ZdyAngular.PhoneBook.Web.Host.Controllers.HomeController.Index (ZdyAngular.PhoneBook.Web.Host) - Validation state: Valid
+INFO  2019-04-30 15:39:10,111 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method ZdyAngular.PhoneBook.Web.Host.Controllers.HomeController.Index (ZdyAngular.PhoneBook.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 2.9391ms.
+INFO  2019-04-30 15:39:10,226 [9    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2019-04-30 15:39:10,240 [9    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action ZdyAngular.PhoneBook.Web.Host.Controllers.HomeController.Index (ZdyAngular.PhoneBook.Web.Host) in 1175.7037ms
+INFO  2019-04-30 15:39:10,259 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger  
+INFO  2019-04-30 15:39:10,262 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4877.6169ms 302 
+INFO  2019-04-30 15:39:10,278 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 18.1913ms 301 
+INFO  2019-04-30 15:39:10,284 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2019-04-30 15:39:10,323 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 35.7706ms 200 text/html
+INFO  2019-04-30 15:39:10,403 [5    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.js  
+INFO  2019-04-30 15:39:10,409 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.swagger.js  
+INFO  2019-04-30 15:39:10,414 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2019-04-30 15:39:10,444 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2019-04-30 15:39:10,446 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2019-04-30 15:39:10,582 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.swagger.js'. Physical path: 'D:\原g盘\ke.qq\code\Asp.NET Core2.0与 EF的ABP框架入门视频教程\ZdyAngular.PhoneBook\aspnet-core\src\ZdyAngular.PhoneBook.Web.Host\wwwroot\swagger\ui\abp.swagger.js'
+INFO  2019-04-30 15:39:10,610 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.js'. Physical path: 'D:\原g盘\ke.qq\code\Asp.NET Core2.0与 EF的ABP框架入门视频教程\ZdyAngular.PhoneBook\aspnet-core\src\ZdyAngular.PhoneBook.Web.Host\wwwroot\swagger\ui\abp.js'
+INFO  2019-04-30 15:39:10,615 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 181.7941ms 200 application/javascript
+INFO  2019-04-30 15:39:10,617 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 212.5399ms 200 application/javascript
+INFO  2019-04-30 15:39:10,628 [5    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  2019-04-30 15:39:10,660 [5    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 243.7954ms 200 text/css
+INFO  2019-04-30 15:39:10,667 [7    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  2019-04-30 15:39:10,685 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 268.0243ms 200 application/javascript
+INFO  2019-04-30 15:39:10,828 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  2019-04-30 15:39:10,832 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 426.6703ms 200 application/javascript
+INFO  2019-04-30 15:39:11,118 [5    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2019-04-30 15:39:11,288 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-32x32.png  
+INFO  2019-04-30 15:39:11,304 [7    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+INFO  2019-04-30 15:39:11,312 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 22.2564ms 200 image/png
+INFO  2019-04-30 15:39:11,469 [5    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 350.7546ms 200 application/json;charset=utf-8
+DEBUG 2019-04-30 16:47:18,290 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-04-30 16:47:18,318 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-04-30 16:47:18,338 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZdyAngular.PhoneBook.Web.Host.Startup.PhoneBookWebHostModule, ZdyAngular.PhoneBook.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:18,341 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZdyAngular.PhoneBook.PhoneBookWebCoreModule, ZdyAngular.PhoneBook.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:18,341 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZdyAngular.PhoneBook.PhoneBookApplicationModule, ZdyAngular.PhoneBook.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:18,342 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZdyAngular.PhoneBook.PhoneBookCoreModule, ZdyAngular.PhoneBook.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:18,342 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:18,342 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:18,342 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:18,343 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:18,343 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: ZdyAngular.PhoneBook.EntityFrameworkCore.PhoneBookEntityFrameworkModule, ZdyAngular.PhoneBook.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:18,343 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:18,343 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:18,343 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:18,344 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:18,344 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:18,344 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:18,347 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-04-30 16:47:18,411 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-04-30 16:47:18,411 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-04-30 16:47:18,411 [1    ] o.Configuration.LanguageManagementConfig - Converted PhoneBook (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-04-30 16:47:18,411 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-04-30 16:47:18,714 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: ZdyAngular.PhoneBook.EntityFrameworkCore.PhoneBookDbContext, ZdyAngular.PhoneBook.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-04-30 16:47:19,102 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-04-30 16:47:19,169 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-04-30 16:47:19,212 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-04-30 16:47:19,238 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: PhoneBook
+DEBUG 2019-04-30 16:47:19,268 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-04-30 16:47:19,302 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-04-30 16:47:19,347 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2019-04-30 16:47:19,347 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-04-30 16:47:19,355 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Users.Dto.CreateUserDto
+DEBUG 2019-04-30 16:47:19,355 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Users.Dto.UserDto
+DEBUG 2019-04-30 16:47:19,356 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-04-30 16:47:19,356 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-04-30 16:47:19,356 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Roles.Dto.CreateRoleDto
+DEBUG 2019-04-30 16:47:19,356 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Roles.Dto.PermissionDto
+DEBUG 2019-04-30 16:47:19,356 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.Roles.Dto.RoleDto
+DEBUG 2019-04-30 16:47:19,357 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-04-30 16:47:19,357 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - ZdyAngular.PhoneBook.MultiTenancy.Dto.TenantDto
+INFO  2019-04-30 16:47:23,384 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2019-04-30 16:47:24,726 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action ZdyAngular.PhoneBook.Web.Host.Controllers.HomeController.Index (ZdyAngular.PhoneBook.Web.Host)
+INFO  2019-04-30 16:47:25,117 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method ZdyAngular.PhoneBook.Web.Host.Controllers.HomeController.Index (ZdyAngular.PhoneBook.Web.Host) - Validation state: Valid
+INFO  2019-04-30 16:47:25,122 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method ZdyAngular.PhoneBook.Web.Host.Controllers.HomeController.Index (ZdyAngular.PhoneBook.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 2.973ms.
+INFO  2019-04-30 16:47:25,340 [6    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2019-04-30 16:47:25,351 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action ZdyAngular.PhoneBook.Web.Host.Controllers.HomeController.Index (ZdyAngular.PhoneBook.Web.Host) in 621.7734ms
+INFO  2019-04-30 16:47:25,412 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2030.9634ms 302 
+INFO  2019-04-30 16:47:25,414 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2019-04-30 16:47:25,458 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 43.432ms 200 text/html
+INFO  2019-04-30 16:47:25,495 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2019-04-30 16:47:25,497 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2019-04-30 16:47:25,525 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2019-04-30 16:47:25,544 [10   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-standalone-preset.js was not modified
+INFO  2019-04-30 16:47:25,544 [12   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui.css was not modified
+INFO  2019-04-30 16:47:25,544 [9    ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-bundle.js was not modified
+INFO  2019-04-30 16:47:25,547 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 52.7776ms 304 text/css
+INFO  2019-04-30 16:47:25,547 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 21.9684ms 304 application/javascript
+INFO  2019-04-30 16:47:25,547 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 50.9733ms 304 application/javascript
+INFO  2019-04-30 16:47:25,857 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2019-04-30 16:47:26,208 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 351.5063ms 200 application/json;charset=utf-8
+INFO  2019-04-30 16:55:42,427 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Person/GetPaged?MaxResultCount=10&SkipCount=0  
+INFO  2019-04-30 16:55:42,484 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetPaged", controller = "Person"}. Executing action ZdyAngular.PhoneBook.PhoneBooks.Persons.PersonAppService.GetPaged (ZdyAngular.PhoneBook.Application)
+WARN  2019-04-30 16:55:42,837 [6    ] Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: 当前用户没有登录到系统！
+   at Abp.Authorization.AuthorizationHelper.AuthorizeAsync(IEnumerable`1 authorizeAttributes) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 42
+   at Abp.Authorization.AuthorizationHelper.CheckPermissions(MethodInfo methodInfo, Type type) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 107
+   at Abp.Authorization.AuthorizationHelper.AuthorizeAsync(MethodInfo methodInfo, Type type) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 56
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.OnAuthorizationAsync(AuthorizationFilterContext context) in D:\Github\aspnetboilerplate\src\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: 当前用户没有登录到系统！
+   at Abp.Authorization.AuthorizationHelper.AuthorizeAsync(IEnumerable`1 authorizeAttributes) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 42
+   at Abp.Authorization.AuthorizationHelper.CheckPermissions(MethodInfo methodInfo, Type type) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 107
+   at Abp.Authorization.AuthorizationHelper.AuthorizeAsync(MethodInfo methodInfo, Type type) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 56
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.OnAuthorizationAsync(AuthorizationFilterContext context) in D:\Github\aspnetboilerplate\src\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+INFO  2019-04-30 16:55:42,842 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Authorization failed for the request at filter 'Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter'.
+INFO  2019-04-30 16:55:42,863 [6    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-04-30 16:55:42,885 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action ZdyAngular.PhoneBook.PhoneBooks.Persons.PersonAppService.GetPaged (ZdyAngular.PhoneBook.Application) in 401.0558ms
+INFO  2019-04-30 16:55:42,886 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 459.0642ms 401 application/json; charset=utf-8
+INFO  2019-04-30 16:56:51,124 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:21021/api/TokenAuth/Authenticate application/json-patch+json 89
+INFO  2019-04-30 16:56:51,133 [6    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution failed.
+INFO  2019-04-30 16:56:51,134 [6    ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:21021 does not have permission to access the resource.
+INFO  2019-04-30 16:56:51,156 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Authenticate", controller = "TokenAuth", area = ""}. Executing action ZdyAngular.PhoneBook.Controllers.TokenAuthController.Authenticate (ZdyAngular.PhoneBook.Web.Core)
+INFO  2019-04-30 16:56:51,158 [6    ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution failed.
+INFO  2019-04-30 16:56:51,158 [6    ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:21021 does not have permission to access the resource.
+INFO  2019-04-30 16:56:51,603 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method ZdyAngular.PhoneBook.Controllers.TokenAuthController.Authenticate (ZdyAngular.PhoneBook.Web.Core) with arguments (ZdyAngular.PhoneBook.Models.TokenAuth.AuthenticateModel) - Validation state: Valid
+INFO  2019-04-30 16:56:52,463 [23   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method ZdyAngular.PhoneBook.Controllers.TokenAuthController.Authenticate (ZdyAngular.PhoneBook.Web.Core), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 859.4448ms.
+INFO  2019-04-30 16:56:52,472 [6    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-04-30 16:56:52,486 [6    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action ZdyAngular.PhoneBook.Controllers.TokenAuthController.Authenticate (ZdyAngular.PhoneBook.Web.Core) in 1329.4673ms
+INFO  2019-04-30 16:56:52,487 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1363.1581ms 200 application/json; charset=utf-8
+INFO  2019-04-30 16:59:30,959 [32   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:21021/api/TokenAuth/Authenticate application/json 50
+INFO  2019-04-30 16:59:30,959 [32   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution failed.
+INFO  2019-04-30 16:59:30,959 [32   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:21021 does not have permission to access the resource.
+INFO  2019-04-30 16:59:30,966 [32   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Authenticate", controller = "TokenAuth", area = ""}. Executing action ZdyAngular.PhoneBook.Controllers.TokenAuthController.Authenticate (ZdyAngular.PhoneBook.Web.Core)
+INFO  2019-04-30 16:59:30,966 [32   ] pNetCore.Cors.Infrastructure.CorsService - CORS policy execution failed.
+INFO  2019-04-30 16:59:30,966 [32   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:21021 does not have permission to access the resource.
+INFO  2019-04-30 16:59:30,973 [32   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method ZdyAngular.PhoneBook.Controllers.TokenAuthController.Authenticate (ZdyAngular.PhoneBook.Web.Core) with arguments (ZdyAngular.PhoneBook.Models.TokenAuth.AuthenticateModel) - Validation state: Valid
+INFO  2019-04-30 16:59:31,034 [37   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method ZdyAngular.PhoneBook.Controllers.TokenAuthController.Authenticate (ZdyAngular.PhoneBook.Web.Core), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 60.6657ms.
+INFO  2019-04-30 16:59:31,042 [33   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-04-30 16:59:31,042 [33   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action ZdyAngular.PhoneBook.Controllers.TokenAuthController.Authenticate (ZdyAngular.PhoneBook.Web.Core) in 76.0364ms
+INFO  2019-04-30 16:59:31,043 [33   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 84.1208ms 200 application/json; charset=utf-8
+INFO  2019-04-30 16:59:41,119 [33   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2019-04-30 16:59:41,121 [33   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2.3304ms 200 text/html
+INFO  2019-04-30 16:59:41,151 [33   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2019-04-30 16:59:41,152 [33   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-bundle.js was not modified
+INFO  2019-04-30 16:59:41,152 [33   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1.3293ms 304 application/javascript
+INFO  2019-04-30 16:59:41,153 [37   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2019-04-30 16:59:41,154 [37   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui.css was not modified
+INFO  2019-04-30 16:59:41,154 [37   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1.3205ms 304 text/css
+INFO  2019-04-30 16:59:41,166 [33   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2019-04-30 16:59:41,167 [33   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-standalone-preset.js was not modified
+INFO  2019-04-30 16:59:41,167 [33   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1.1436ms 304 application/javascript
+INFO  2019-04-30 16:59:41,596 [38   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2019-04-30 16:59:41,611 [33   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-32x32.png  
+INFO  2019-04-30 16:59:41,632 [33   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+INFO  2019-04-30 16:59:41,632 [33   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 22.1827ms 200 image/png
+INFO  2019-04-30 16:59:41,680 [38   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2019-04-30 16:59:41,818 [36   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 222.7734ms 200 application/json;charset=utf-8
+INFO  2019-04-30 16:59:53,795 [36   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Person/GetPaged?MaxResultCount=10&SkipCount=0  
+INFO  2019-04-30 16:59:53,797 [36   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2019-04-30 16:59:53,804 [36   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetPaged", controller = "Person"}. Executing action ZdyAngular.PhoneBook.PhoneBooks.Persons.PersonAppService.GetPaged (ZdyAngular.PhoneBook.Application)
+WARN  2019-04-30 16:59:54,076 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'QueryPerson' in localization source 'PhoneBook'!
+WARN  2019-04-30 16:59:54,082 [31   ] Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: 您没有权限进行此操作,您至少需要下列权限的其中一项：[Query person]
+   at Abp.Authorization.PermissionCheckerExtensions.AuthorizeAsync(IPermissionChecker permissionChecker, Boolean requireAll, String[] permissionNames) in D:\Github\aspnetboilerplate\src\Abp\Authorization\PermissionCheckerExtensions.cs:line 195
+   at Abp.Authorization.AuthorizationHelper.AuthorizeAsync(IEnumerable`1 authorizeAttributes) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 47
+   at Abp.Authorization.AuthorizationHelper.CheckPermissions(MethodInfo methodInfo, Type type) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 107
+   at Abp.Authorization.AuthorizationHelper.AuthorizeAsync(MethodInfo methodInfo, Type type) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 56
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.OnAuthorizationAsync(AuthorizationFilterContext context) in D:\Github\aspnetboilerplate\src\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: 您没有权限进行此操作,您至少需要下列权限的其中一项：[Query person]
+   at Abp.Authorization.PermissionCheckerExtensions.AuthorizeAsync(IPermissionChecker permissionChecker, Boolean requireAll, String[] permissionNames) in D:\Github\aspnetboilerplate\src\Abp\Authorization\PermissionCheckerExtensions.cs:line 195
+   at Abp.Authorization.AuthorizationHelper.AuthorizeAsync(IEnumerable`1 authorizeAttributes) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 47
+   at Abp.Authorization.AuthorizationHelper.CheckPermissions(MethodInfo methodInfo, Type type) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 107
+   at Abp.Authorization.AuthorizationHelper.AuthorizeAsync(MethodInfo methodInfo, Type type) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 56
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.OnAuthorizationAsync(AuthorizationFilterContext context) in D:\Github\aspnetboilerplate\src\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+INFO  2019-04-30 16:59:54,083 [31   ] ore.Mvc.Internal.ControllerActionInvoker - Authorization failed for the request at filter 'Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter'.
+INFO  2019-04-30 16:59:54,083 [31   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-04-30 16:59:54,083 [31   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action ZdyAngular.PhoneBook.PhoneBooks.Persons.PersonAppService.GetPaged (ZdyAngular.PhoneBook.Application) in 279.1492ms
+INFO  2019-04-30 16:59:54,083 [31   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 287.5767ms 403 application/json; charset=utf-8
